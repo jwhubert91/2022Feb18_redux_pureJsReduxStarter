@@ -1,0 +1,10 @@
+{
+  "name": "2022Feb18_redux_reduxExample",
+  "version": "1.0.0",
+  "description": "taken from https://redux.js.org/introduction/getting-started",
+  "main": "index.js",
+  "repository": "https://github.com/jwhubert91/2022Feb18_redux_pureJsReduxStarter",
+  "author": "jwhubert91@gmail.com",
+  "license": "MIT",
+  "private": false
+}
