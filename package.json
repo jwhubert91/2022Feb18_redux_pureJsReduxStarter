@@ -6,5 +6,8 @@
   "repository": "https://github.com/jwhubert91/2022Feb18_redux_pureJsReduxStarter",
   "author": "jwhubert91@gmail.com",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.7.2"
+  }
 }
